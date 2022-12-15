@@ -9,7 +9,7 @@ This function allows the computer to generate a random number between 1 and 100,
 '''
 def get_number():
     number = random.randint(1,100)
-    print("Computers number is", number)
+    #print(number)
     return number
 
 '''
